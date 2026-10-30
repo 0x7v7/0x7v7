@@ -1,4 +1,4 @@
-# NotSoftware
+# 0x7v7
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=800&color=00D1FF&center=true&vCenter=true&width=760&lines=Security+Researcher;Reverse+Engineer;Malware+Analyst;Binary+Specialist;Low-Level+Developer" alt="Typing animation" />
