@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/0x7v7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-NotSoftware-181717?logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0x7v7-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://discord.com/users/0x7v7" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0xnsr-5865F2?logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-0x7v7-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
